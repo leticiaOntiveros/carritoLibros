@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "A little Life",
+        "author":"Hanya Yanagihara",
+        "price": 10,
+        "img": "https://m.media-amazon.com/images/I/518ewPPStwL._SY445_SX342_.jpg",
+        "quanty": 1
+    },
+    {
+        "id": 2,
+        "name": "Outliers",
+        "author":"Malcolm Gladwell",
+        "price": 15,
+        "img": "https://m.media-amazon.com/images/I/71wW4QHwiIL._SY342_.jpg",
+        "quanty": 1
+    },
+    {
+        "id": 3,
+        "name": "A Flicker in the Dark",
+        "author":"Stacy Willingham",
+        "price": 20,
+        "img": "https://m.media-amazon.com/images/I/81meHRRFChL._SY342_.jpg",
+        "quanty": 1
+    },
+    {
+        "id": 4,
+        "name": "Icebreaker",
+        "author":"Hannah Grace",
+        "price": 32,
+        "img": "https://m.media-amazon.com/images/I/71sDWAlPwRL._SY342_.jpg",
+        "quanty": 1
+   
+    }
+]
